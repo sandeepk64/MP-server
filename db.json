@@ -1,0 +1,98 @@
+{
+  "allVideos": [
+    {
+      "id": "9ab3",
+      "caption": "pala pala",
+      "imgUrl": "https://i.ytimg.com/vi/fp3jROSFvis/maxresdefault.jpg",
+      "youTubeUrl": "https://www.youtube.com/embed/Vijx5tRBCeg"
+    },
+    {
+      "id": "88f1",
+      "caption": "ranam",
+      "imgUrl": "https://wallpapercave.com/wp/wp7025697.jpg",
+      "youTubeUrl": "https://www.youtube.com/embed/UImrau29cu8"
+    },
+    {
+      "id": "3390",
+      "caption": "Godzilla vs Kong",
+      "imgUrl": "https://th.bing.com/th/id/OIP.pk9GAZDVnnwIlNAXKjhwwAAAAA?rs=1&pid=ImgDetMain",
+      "youTubeUrl": "https://www.youtube.com/embed/lV1OOlGwExM"
+    }
+  ],
+  "history": [
+    {
+      "id": "1518",
+      "caption": "leo",
+      "youtubeURL": "https://www.youtube.com/embed/3wDiqlTNlfQ",
+      "timeStamp": "4/29/2024, 10:30:36 AM GMT+5:30"
+    },
+    {
+      "id": "97da",
+      "caption": "leo",
+      "youtubeURL": "https://www.youtube.com/embed/3wDiqlTNlfQ",
+      "timeStamp": "4/29/2024, 10:30:36 AM GMT+5:30"
+    },
+    {
+      "id": "c0cc",
+      "caption": "leo",
+      "youtubeURL": "https://www.youtube.com/embed/3wDiqlTNlfQ",
+      "timeStamp": "4/29/2024, 10:30:36 AM GMT+5:30"
+    },
+    {
+      "id": "eb9f",
+      "caption": "leo",
+      "youtubeURL": "https://www.youtube.com/embed/3wDiqlTNlfQ",
+      "timeStamp": "5/1/2024, 9:37:04 AM GMT+5:30"
+    },
+    {
+      "id": "f621",
+      "caption": "leo",
+      "youtubeURL": "https://www.youtube.com/embed/3wDiqlTNlfQ",
+      "timeStamp": "5/2/2024, 10:21:31 AM GMT+5:30"
+    },
+    {
+      "id": "7fef",
+      "caption": "leo",
+      "youtubeURL": "https://www.youtube.com/embed/3wDiqlTNlfQ",
+      "timeStamp": "5/2/2024, 10:25:16 AM GMT+5:30"
+    },
+    {
+      "id": "5dd9",
+      "caption": "leo",
+      "youtubeURL": "https://www.youtube.com/embed/3wDiqlTNlfQ",
+      "timeStamp": "5/3/2024, 9:59:26 AM GMT+5:30"
+    },
+    {
+      "id": "0142",
+      "caption": "aavesham",
+      "youTubeUrl": "https://www.youtube.com/embed/6xqNk5Sf5jo",
+      "timeStamp": "5/6/2024, 8:38:10 AM GMT+5:30"
+    }
+  ],
+  "allCategory": [
+    {
+      "id": "566d",
+      "categoryName": "songs",
+      "allVideos": [
+        {
+          "id": "8875",
+          "caption": "nebulakal",
+          "imgUrl": "https://th.bing.com/th/id/OIP.uwYSgyw_tc8FyKEXB5dd9wAAAA?rs=1&pid=ImgDetMain",
+          "youTubeUrl": "https://www.youtube.com/embed/OGwyhjk_fhE"
+        }
+      ]
+    },
+    {
+      "id": "54d2",
+      "categoryName": "Trailers",
+      "allVideos": [
+        {
+          "id": "042b",
+          "caption": "aavesham",
+          "imgUrl": "https://m.media-amazon.com/images/M/MV5BZjM5ODBkYTUtNjAwMy00MmY5LWEyZjEtMDg0Y2NlZjQyMzQ1XkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_FMjpg_UX1000_.jpg",
+          "youTubeUrl": "https://www.youtube.com/embed/6xqNk5Sf5jo"
+        }
+      ]
+    }
+  ]
+}
